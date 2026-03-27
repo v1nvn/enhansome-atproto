@@ -57,7 +57,7 @@
 * [recipe.exchange](https://recipe.exchange/) - Cooking recipes sharing.
 * [Skylights](https://skylights.my/) - Book reviews.
 * [Smoke Signal](https://smokesignal.events/) - Event creation and managing.
-* [Sparta Social](https://github.com/dblock/sparta-social) ⭐ 6 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-25 - Exercise activity tracker (wip).
+* [Sparta Social](https://github.com/dblock/sparta-social) ⭐ 6 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-27 - Exercise activity tracker (wip).
 * [Whitewind](https://whtwnd.com/) - Markdown blog service using ATProto with no registration required.
 
 ### Bluesky
@@ -83,18 +83,18 @@ Lexicon is a schema definition language used to describe atproto records, HTTP e
 
 Find below each platform's lexicons:
 
-* [Bluesky](https://github.com/bluesky-social/atproto/tree/main/lexicons/app/bsky) ⭐ 9,230 | 🐛 693 | 🌐 TypeScript | 📅 2026-03-25
-* [Frontage](https://github.com/likeandscribe/frontpage/tree/main/lexicons/fyi/unravel/frontpage) ⭐ 179 | 🐛 18 | 🌐 TypeScript | 📅 2026-03-25
+* [Bluesky](https://github.com/bluesky-social/atproto/tree/main/lexicons/app/bsky) ⭐ 9,235 | 🐛 696 | 🌐 TypeScript | 📅 2026-03-27
+* [Frontage](https://github.com/likeandscribe/frontpage/tree/main/lexicons/fyi/unravel/frontpage) ⭐ 180 | 🐛 18 | 🌐 TypeScript | 📅 2026-03-26
 * [Whitewind](https://github.com/whtwnd/whitewind-blog/tree/main/lexicons/com/whtwnd/blog) ⭐ 162 | 🐛 33 | 🌐 TypeScript | 📅 2025-10-13
-* [Linkat](https://github.com/mkizka/linkat/tree/main/lexicons/blue/linkat) ⭐ 114 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-22
+* [Linkat](https://github.com/mkizka/linkat/tree/main/lexicons/blue/linkat) ⭐ 114 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-26
 * [Bookhive](https://github.com/nperez0111/bookhive/tree/main/lexicons) ⭐ 104 | 🐛 9 | 🌐 TypeScript | 📅 2026-03-26
 * [PinkSea](https://github.com/shinolabs/PinkSea/tree/master/PinkSea.Lexicons/com/shinolabs/pinksea) ⭐ 104 | 🐛 17 | 🌐 C# | 📅 2026-01-27
-* [Bluemoji](https://github.com/aendra-rininsland/bluemoji/tree/main/schema/blue.moji) ⭐ 55 | 🐛 1 | 🌐 TypeScript | 📅 2025-01-17
+* [Bluemoji](https://github.com/aendra-rininsland/bluemoji/tree/main/schema/blue.moji) ⭐ 55 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-26
 * [Skylights](https://github.com/Gregoor/skylights/tree/main/web/lexicons) ⭐ 33 | 🐛 3 | 🌐 TypeScript | 📅 2025-12-18
 * [GrayHaze](https://github.com/hugeblank/grayhaze.live/tree/main/lexicons/live/grayhaze) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-20
 * [Pastesphere](https://github.com/echo8/pastesphere/tree/main/lexicons) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2024-12-22
 * [Skymdb](https://github.com/safwanyp/skymdb/tree/main/domain/lexicons) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2024-11-24
-* [Sparta Social](https://github.com/dblock/sparta-social/tree/main/lexicons) ⭐ 6 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-25
+* [Sparta Social](https://github.com/dblock/sparta-social/tree/main/lexicons) ⭐ 6 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-27
 * [place.blue](https://github.com/QuietImCoding/place.blue/tree/main/atproto/lexicons) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2024-12-13
 * [ATFile](https://github.com/ziodotsh/lexicons/tree/main/blue/zio/atfile) ⭐ 2 | 🐛 1 | 📅 2025-01-15
 * [Picosky](https://github.com/psky-atp/appview/tree/main/lexicons/social/psky)
