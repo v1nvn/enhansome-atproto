@@ -57,7 +57,7 @@
 * [recipe.exchange](https://recipe.exchange/) - Cooking recipes sharing.
 * [Skylights](https://skylights.my/) - Book reviews.
 * [Smoke Signal](https://smokesignal.events/) - Event creation and managing.
-* [Sparta Social](https://github.com/dblock/sparta-social) ⭐ 6 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-27 - Exercise activity tracker (wip).
+* [Sparta Social](https://github.com/dblock/sparta-social) ⭐ 6 | 🐛 8 | 🌐 TypeScript | 📅 2026-03-28 - Exercise activity tracker (wip).
 * [Whitewind](https://whtwnd.com/) - Markdown blog service using ATProto with no registration required.
 
 ### Bluesky
@@ -83,7 +83,7 @@ Lexicon is a schema definition language used to describe atproto records, HTTP e
 
 Find below each platform's lexicons:
 
-* [Bluesky](https://github.com/bluesky-social/atproto/tree/main/lexicons/app/bsky) ⭐ 9,239 | 🐛 695 | 🌐 TypeScript | 📅 2026-03-27
+* [Bluesky](https://github.com/bluesky-social/atproto/tree/main/lexicons/app/bsky) ⭐ 9,241 | 🐛 695 | 🌐 TypeScript | 📅 2026-03-29
 * [Frontage](https://github.com/likeandscribe/frontpage/tree/main/lexicons/fyi/unravel/frontpage) ⭐ 180 | 🐛 18 | 🌐 TypeScript | 📅 2026-03-26
 * [Whitewind](https://github.com/whtwnd/whitewind-blog/tree/main/lexicons/com/whtwnd/blog) ⭐ 162 | 🐛 33 | 🌐 TypeScript | 📅 2025-10-13
 * [Linkat](https://github.com/mkizka/linkat/tree/main/lexicons/blue/linkat) ⭐ 114 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-26
@@ -94,7 +94,7 @@ Find below each platform's lexicons:
 * [GrayHaze](https://github.com/hugeblank/grayhaze.live/tree/main/lexicons/live/grayhaze) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-20
 * [Pastesphere](https://github.com/echo8/pastesphere/tree/main/lexicons) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2024-12-22
 * [Skymdb](https://github.com/safwanyp/skymdb/tree/main/domain/lexicons) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2024-11-24
-* [Sparta Social](https://github.com/dblock/sparta-social/tree/main/lexicons) ⭐ 6 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-27
+* [Sparta Social](https://github.com/dblock/sparta-social/tree/main/lexicons) ⭐ 6 | 🐛 8 | 🌐 TypeScript | 📅 2026-03-28
 * [place.blue](https://github.com/QuietImCoding/place.blue/tree/main/atproto/lexicons) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2024-12-13
 * [ATFile](https://github.com/ziodotsh/lexicons/tree/main/blue/zio/atfile) ⭐ 2 | 🐛 1 | 📅 2025-01-15
 * [Picosky](https://github.com/psky-atp/appview/tree/main/lexicons/social/psky)
