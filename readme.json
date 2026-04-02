@@ -41,10 +41,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-31T20:31:32Z",
+            "last_commit": "2026-04-01T17:07:41Z",
             "owner": "bluesky-social",
             "repo": "atproto",
-            "stars": 9250
+            "stars": 9258
           }
         },
         {
@@ -67,7 +67,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-31T16:56:17Z",
+            "last_commit": "2026-04-01T22:05:58Z",
             "owner": "frontpagefyi",
             "repo": "frontpage",
             "stars": 180
@@ -186,7 +186,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-30T18:29:23Z",
+            "last_commit": "2026-04-01T23:17:42Z",
             "owner": "dblock",
             "repo": "sparta-social",
             "stars": 6
@@ -215,7 +215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-01T04:43:34.309Z",
+    "last_updated": "2026-04-02T04:24:42.717Z",
     "original_repository": "atblueprints/awesome-atproto",
     "source_repository": "v1nvn/enhansome-atproto",
     "source_repository_description": null,
