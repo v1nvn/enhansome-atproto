@@ -83,12 +83,12 @@ Lexicon is a schema definition language used to describe atproto records, HTTP e
 
 Find below each platform's lexicons:
 
-* [Bluesky](https://github.com/bluesky-social/atproto/tree/main/lexicons/app/bsky) ⭐ 9,267 | 🐛 697 | 🌐 TypeScript | 📅 2026-04-02
-* [Frontage](https://github.com/likeandscribe/frontpage/tree/main/lexicons/fyi/unravel/frontpage) ⭐ 180 | 🐛 21 | 🌐 TypeScript | 📅 2026-04-03
+* [Bluesky](https://github.com/bluesky-social/atproto/tree/main/lexicons/app/bsky) ⭐ 9,268 | 🐛 700 | 🌐 TypeScript | 📅 2026-04-03
+* [Frontage](https://github.com/likeandscribe/frontpage/tree/main/lexicons/fyi/unravel/frontpage) ⭐ 180 | 🐛 22 | 🌐 TypeScript | 📅 2026-04-03
 * [Whitewind](https://github.com/whtwnd/whitewind-blog/tree/main/lexicons/com/whtwnd/blog) ⭐ 162 | 🐛 33 | 🌐 TypeScript | 📅 2025-10-13
 * [Linkat](https://github.com/mkizka/linkat/tree/main/lexicons/blue/linkat) ⭐ 114 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-02
 * [PinkSea](https://github.com/shinolabs/PinkSea/tree/master/PinkSea.Lexicons/com/shinolabs/pinksea) ⭐ 105 | 🐛 17 | 🌐 C# | 📅 2026-01-27
-* [Bookhive](https://github.com/nperez0111/bookhive/tree/main/lexicons) ⭐ 104 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-30
+* [Bookhive](https://github.com/nperez0111/bookhive/tree/main/lexicons) ⭐ 104 | 🐛 7 | 🌐 TypeScript | 📅 2026-04-03
 * [Bluemoji](https://github.com/aendra-rininsland/bluemoji/tree/main/schema/blue.moji) ⭐ 55 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-26
 * [Skylights](https://github.com/Gregoor/skylights/tree/main/web/lexicons) ⭐ 33 | 🐛 3 | 🌐 TypeScript | 📅 2025-12-18
 * [GrayHaze](https://github.com/hugeblank/grayhaze.live/tree/main/lexicons/live/grayhaze) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-20
