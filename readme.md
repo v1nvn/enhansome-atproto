@@ -83,11 +83,11 @@ Lexicon is a schema definition language used to describe atproto records, HTTP e
 
 Find below each platform's lexicons:
 
-* [Bluesky](https://github.com/bluesky-social/atproto/tree/main/lexicons/app/bsky) ⭐ 9,320 | 🐛 710 | 🌐 TypeScript | 📅 2026-04-17
+* [Bluesky](https://github.com/bluesky-social/atproto/tree/main/lexicons/app/bsky) ⭐ 9,324 | 🐛 711 | 🌐 TypeScript | 📅 2026-04-18
 * [Frontage](https://github.com/likeandscribe/frontpage/tree/main/lexicons/fyi/unravel/frontpage) ⭐ 180 | 🐛 25 | 🌐 TypeScript | 📅 2026-04-16
 * [Whitewind](https://github.com/whtwnd/whitewind-blog/tree/main/lexicons/com/whtwnd/blog) ⭐ 162 | 🐛 33 | 🌐 TypeScript | 📅 2025-10-13
 * [Linkat](https://github.com/mkizka/linkat/tree/main/lexicons/blue/linkat) ⭐ 113 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-16
-* [Bookhive](https://github.com/nperez0111/bookhive/tree/main/lexicons) ⭐ 111 | 🐛 9 | 🌐 TypeScript | 📅 2026-04-10
+* [Bookhive](https://github.com/nperez0111/bookhive/tree/main/lexicons) ⭐ 111 | 🐛 9 | 🌐 TypeScript | 📅 2026-04-18
 * [PinkSea](https://github.com/shinolabs/PinkSea/tree/master/PinkSea.Lexicons/com/shinolabs/pinksea) ⭐ 105 | 🐛 17 | 🌐 C# | 📅 2026-01-27
 * [Bluemoji](https://github.com/aendra-rininsland/bluemoji/tree/main/schema/blue.moji) ⭐ 55 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-26
 * [Skylights](https://github.com/Gregoor/skylights/tree/main/web/lexicons) ⭐ 33 | 🐛 3 | 🌐 TypeScript | 📅 2025-12-18
