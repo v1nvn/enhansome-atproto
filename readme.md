@@ -83,7 +83,7 @@ Lexicon is a schema definition language used to describe atproto records, HTTP e
 
 Find below each platform's lexicons:
 
-* [Bluesky](https://github.com/bluesky-social/atproto/tree/main/lexicons/app/bsky) ⭐ 9,341 | 🐛 717 | 🌐 TypeScript | 📅 2026-04-26
+* [Bluesky](https://github.com/bluesky-social/atproto/tree/main/lexicons/app/bsky) ⭐ 9,349 | 🐛 720 | 🌐 TypeScript | 📅 2026-04-28
 * [Frontage](https://github.com/likeandscribe/frontpage/tree/main/lexicons/fyi/unravel/frontpage) ⭐ 181 | 🐛 24 | 🌐 TypeScript | 📅 2026-04-24
 * [Whitewind](https://github.com/whtwnd/whitewind-blog/tree/main/lexicons/com/whtwnd/blog) ⭐ 163 | 🐛 33 | 🌐 TypeScript | 📅 2025-10-13
 * [Linkat](https://github.com/mkizka/linkat/tree/main/lexicons/blue/linkat) ⭐ 115 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-26
